@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Gather action="/gather.php" method="GET" numDigits="4">
+    <Say>
+      Welcome to Twilio Snake! Please enter your game code.
+    </Say>
+  </Gather>
+  <Say>We didn't receive any input. Goodbye!</Say>
+</Response>
